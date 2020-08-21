@@ -13,8 +13,8 @@ public class P1 {
 			System.out.println("Enter Second number");
 			int b = input.nextInt();
 			
-			System.out.println("Enter Third number");
-			int c = input.nextInt();
+	//		System.out.println("Enter Third number");
+	//		int c = input.nextInt();
 			
 			System.out.println("Numbers are: "+ a + " "+ b + " "+ c + " " );
 			
